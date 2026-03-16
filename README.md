@@ -1,5 +1,5 @@
 # Compromise-disk.E01-IIS-Web-Server
-Compromise-disk.E01-IIS-Web-Server
+DFIR Lab : Compromise-disk.E01-IIS-Web-Server
 
 During this forensics Investigation, I performed a compromise assessment on a web server disk image to identify signs of malicious activity. Key steps and findings include:
 
@@ -18,7 +18,5 @@ During this forensics Investigation, I performed a compromise assessment on a we
 Disk Image (disk.E01): https://drive.google.com/file/d/1xSMsdEbcZMMib6e79L0rLK2Y0rvVwJOC/view
 
 ZIP Password: LmxHXhpvYs4qP.**.bM4Xm4c
-
-This investigation was a great exercise in incident response, threat detection, and forensic timeline analysis.
 
 GitHub Write-up: https://github.com/SIDOUmed/Compromise-Assessment-Lab-IIS-Web-Server
