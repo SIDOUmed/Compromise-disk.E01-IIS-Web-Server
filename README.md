@@ -16,6 +16,7 @@ During this forensics Investigation, I performed a compromise assessment on a we
 -Tools Used: Sysmon, MFTECmd, Timeline Explorer, FTK Imager
 
 Disk Image (disk.E01): https://drive.google.com/file/d/1xSMsdEbcZMMib6e79L0rLK2Y0rvVwJOC/view
+
 ZIP Password: LmxHXhpvYs4qP.**.bM4Xm4c
 
 This investigation was a great exercise in incident response, threat detection, and forensic timeline analysis.
