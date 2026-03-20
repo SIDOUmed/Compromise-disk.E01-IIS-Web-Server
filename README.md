@@ -19,9 +19,3 @@ Disk Image (disk.E01): https://drive.google.com/file/d/1xSMsdEbcZMMib6e79L0rLK2Y
 
 ZIP Password: LmxHXhpvYs4qP.**.bM4Xm4c
 
-<<<<<<< Updated upstream
-GitHub Write-up: https://github.com/SIDOUmed/Compromise-Assessment-Lab-IIS-Web-Server
-=======
-This investigation was a great exercise in incident response, threat detection, and forensic timeline analysis.
-
->>>>>>> Stashed changes
