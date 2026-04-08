@@ -17,5 +17,4 @@ During this forensics Investigation, I performed a compromise assessment on a we
 
 Disk Image (disk.E01): https://drive.google.com/file/d/1xSMsdEbcZMMib6e79L0rLK2Y0rvVwJOC/view
 
-ZIP Password: LmxHXhpvYs4qP.**.bM4Xm4c
 
